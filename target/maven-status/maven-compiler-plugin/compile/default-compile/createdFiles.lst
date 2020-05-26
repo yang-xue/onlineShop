@@ -1,0 +1,10 @@
+onlineShopApp/model/Product.class
+onlineShopApp/model/BillingAddress.class
+onlineShopApp/ApplicationConfig.class
+onlineShopApp/model/Authorities.class
+onlineShopApp/model/User.class
+onlineShopApp/model/SalesOrder.class
+onlineShopApp/model/Customer.class
+onlineShopApp/model/Cart.class
+onlineShopApp/model/CartItem.class
+onlineShopApp/model/ShippingAddress.class

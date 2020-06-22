@@ -1,0 +1,23 @@
+package onlineShopApp.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import onlineShopApp.dao.CustomerDao;
+import onlineShopApp.model.Customer;
+
+@Service
+public class CustomerService {
+    
+    @Autowired
+    private CustomerDao customerDao;
+
+    public void addCustomer(Customer customer) {   	 
+   	 customerDao.addCustomer(customer);
+    }
+
+    public Customer getCustomerByUserName(String userName) {
+   	 return customerDao.getCustomerByUserName(userName);
+    }
+}
+

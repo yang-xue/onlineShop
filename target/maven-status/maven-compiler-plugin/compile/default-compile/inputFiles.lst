@@ -1,5 +1,6 @@
 /Users/xueyang/Desktop/Eclipse/online shop project/onlineShopApp/src/main/java/onlineShopApp/model/Authorities.java
 /Users/xueyang/Desktop/Eclipse/online shop project/onlineShopApp/src/main/java/onlineShopApp/model/Customer.java
+/Users/xueyang/Desktop/Eclipse/online shop project/onlineShopApp/src/main/java/onlineShopApp/controller/HomePageController.java
 /Users/xueyang/Desktop/Eclipse/online shop project/onlineShopApp/src/main/java/onlineShopApp/model/Cart.java
 /Users/xueyang/Desktop/Eclipse/online shop project/onlineShopApp/src/main/java/onlineShopApp/ApplicationConfig.java
 /Users/xueyang/Desktop/Eclipse/online shop project/onlineShopApp/src/main/java/onlineShopApp/model/User.java
@@ -7,4 +8,5 @@
 /Users/xueyang/Desktop/Eclipse/online shop project/onlineShopApp/src/main/java/onlineShopApp/model/SalesOrder.java
 /Users/xueyang/Desktop/Eclipse/online shop project/onlineShopApp/src/main/java/onlineShopApp/model/CartItem.java
 /Users/xueyang/Desktop/Eclipse/online shop project/onlineShopApp/src/main/java/onlineShopApp/model/ShippingAddress.java
+/Users/xueyang/Desktop/Eclipse/online shop project/onlineShopApp/src/main/java/onlineShopApp/SecurityConfig.java
 /Users/xueyang/Desktop/Eclipse/online shop project/onlineShopApp/src/main/java/onlineShopApp/model/Product.java

@@ -1,5 +1,7 @@
 onlineShopApp/model/Product.class
 onlineShopApp/model/BillingAddress.class
+onlineShopApp/SecurityConfig.class
+onlineShopApp/controller/HomePageController.class
 onlineShopApp/ApplicationConfig.class
 onlineShopApp/model/Authorities.class
 onlineShopApp/model/User.class
